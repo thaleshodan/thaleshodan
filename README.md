@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @thaleshodan a 16-year-old teenage programmer who has been studyng since i was 10,with six years of experience.I developed a fascination for programming  very early son ,specifially in the areas of back-end develpment and cybersecurity.I have worked on open-source projects and used amazing technologies like linux,Visual Studio Code, among others.
-- 👀 I’m very interested in understanding every aspect of computer science in a deeper and more cultured way.My biggest goal is to study at Harvard University because of its prestige and the concentration of knowledge and wisdom involved atthe veritas American university.
-- 🌱 I’m currently learning technologies of back end and full stack like :python,c,c++,c#,react,nativejs,postgreeSQL,mysql,among others
-- 💞️ I’m looking to collaborate on open source projects like linux kernel inside of community and make documentations based on distros ubuntu,debian,arch,red hat enterprise with this i intend to document their applications on servers,desktops,cybersecurity and relate the bugs and build a better environment for everbody of linux community  
-- 📫 How to reach me? send me a message on this email: thales_shodan3301@proton.me
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i dressed up as iron man at a party when i was 10 years old and i was the "king of the party"
-
-<!---
-thaleshodan/thaleshodan is a ✨ special ✨ repository because its README.md
+## Olá, eu sou Thaleshodan!
+<br>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<br><br><br>
+<a href="https://www.linkedin.com/in/glauco-thales-b042a42b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/denied_3301?igsh=NW9scmphNGV3d21i" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
