@@ -1,4 +1,4 @@
-## Olá, eu sou Thaleshodan!
+##  seja bem-vindo ao mundo espere que esse perfil ajude sua jornada, eu sou Thaleshodan!
 <br>
 <br>
 <picture>
