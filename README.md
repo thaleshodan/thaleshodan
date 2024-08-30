@@ -1,4 +1,4 @@
-## https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=4b0081&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling
+##<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
 
 
 
