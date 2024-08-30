@@ -3,6 +3,9 @@
 
 ## Olá seja bem-vindo ao meu mundo,espero que esse perfil seja útil em sua jornada como programador! Ass: shodan
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 <picture>
