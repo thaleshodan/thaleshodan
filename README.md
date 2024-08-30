@@ -1,4 +1,7 @@
-##<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
+## Olá seja bem-vindo ao meu mundo,espero que esse perfil seja útil em sua jornada como programador! Ass: shodan
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
 
 
 <br>
