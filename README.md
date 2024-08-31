@@ -9,10 +9,10 @@
 ````console
   ┌──(kali㉿kali)-[~]
   └─$ cat profile.txt 
-  Name: David Fontes              Age: 18
+  Name: Thales Shodan              Age: 16
   Country: Brazil                 occupation: Cybersecurity
   Goal:
-    -Be the best
+    -Get  Freedom
                                                                           
   ┌──(kali㉿kali)-[~]
   └─$ cat note.txt   
