@@ -5,12 +5,13 @@
 
 
 
+````console
   ┌──(kali㉿kali)-[~]
   └─$ cat profile.txt 
-  Name: thales shodan              Age: 16
+  Name: David Fontes              Age: 18
   Country: Brazil                 occupation: Cybersecurity
   Goal:
-    -freedom
+    -Be the best
                                                                           
   ┌──(kali㉿kali)-[~]
   └─$ cat note.txt   
@@ -20,8 +21,11 @@
                                                                           
   ┌──(kali㉿kali)-[~]
   └─$ cat mantra.txt 
-  "vanitas vanitatum et ominia vanitas,sed perfet et obdura;dolor hic tibi proderit ohim."
-                                                                -eclesiastes/ovidio
+  "quod cito acquiritur cito perit ."
+
+                                    ignotum         -
+                                                                          
+````
                                                                           
 <br><br>
 
@@ -37,6 +41,9 @@
 </table>
 
 <br><br>
+
+
+## tecnologias ##
 
 <a href="https://www.linkedin.com/in/glauco-thales-b042a42b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
