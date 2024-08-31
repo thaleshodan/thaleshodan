@@ -3,6 +3,26 @@
 ## Olá, seja bem-vindo ao meu mundo! Espero que esse perfil seja útil em sua jornada como programador!  
 **Ass:** Shodan
 
+
+
+  ┌──(kali㉿kali)-[~]
+  └─$ cat profile.txt 
+  Name: thales shodan              Age: 16
+  Country: Brazil                 occupation: Cybersecurity
+  Goal:
+    -freedom
+                                                                          
+  ┌──(kali㉿kali)-[~]
+  └─$ cat note.txt   
+  1 - Passionate about development and cybersecurity
+  2 - working with terminals since I was 10
+  3 - freedom is a gift
+                                                                          
+  ┌──(kali㉿kali)-[~]
+  └─$ cat mantra.txt 
+  "vanitas vanitatum et ominia vanitas,sed perfet et obdura;dolor hic tibi proderit ohim."
+                                                                -eclesiastes/ovidio
+                                                                          
 <br><br>
 
 <table>
