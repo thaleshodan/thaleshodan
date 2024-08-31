@@ -1,3 +1,4 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
 
 ## Olá, seja bem-vindo ao meu mundo! Espero que esse perfil seja útil em sua jornada como programador!  
@@ -70,5 +71,5 @@
 
 ## operation systems##
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
