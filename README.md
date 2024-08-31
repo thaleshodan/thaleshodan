@@ -7,7 +7,7 @@
 
 
 ````console
-  ┌──(kali㉿kali)-[~]
+  ┌──(blackarch㉿Root)-[~]
   └─$ cat profile.txt 
   Name: Thales Shodan              Age: 16
   Country: Brazil                 occupation: Cybersecurity
