@@ -36,16 +36,6 @@
 ### 🤖 Linguagens e Tecnologias
 
 
- <img 
-    align="left" 
-    alt="Assembly" 
-    title="Assembly" 
-    width="10px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Assembly_language_icon.svg" 
-/>
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -106,7 +96,6 @@
 
 ### 📊 Estatísticas
 
-
 <p>
   <img 
     align="left" 
@@ -115,8 +104,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-
 
   <img 
     align="left" 
