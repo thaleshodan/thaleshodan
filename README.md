@@ -41,8 +41,9 @@
     title="Assembly" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" 
+    src="https://i.imgur.com/K7CiKwq.png" 
 />
+
 
 
 <img 
