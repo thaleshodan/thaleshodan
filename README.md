@@ -1,7 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
 
-## Olá, seja bem-vindo ao meu mundo! Espero que esse perfil seja útil em sua jornada como programador!  
+## "Hello World" cybersecurity enthusiasts, I'm glad you found my profile.
+I’m Shodan, a Brazilian cybersecurity student since I was 10 years old, and on this profile, I create tools to assist in pentesting for teams from white to black hats. There's no place like 127.0.0.1.
+Best regards,
+Shodan  
 **Ass:** Shodan
 
 
