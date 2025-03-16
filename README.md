@@ -128,6 +128,9 @@ Shodan
 </p>
 
 
+---------------
+
+
 
 ### Sistemas operacionais que eu uso ###
 
@@ -159,5 +162,16 @@ Shodan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Qubes OS" 
+    title="Qubes OS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qubes/qubes-original.svg" 
+/>
+
 
 
