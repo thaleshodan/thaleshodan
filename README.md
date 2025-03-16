@@ -35,7 +35,16 @@
 
 ### 🤖 Linguagens e Tecnologias
 
- 
+
+ <img 
+    align="left" 
+    alt="Assembly" 
+    title="Assembly" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Assembly_language_icon.svg" 
+/>
+
 
 <img 
     align="left" 
