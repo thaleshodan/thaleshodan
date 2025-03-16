@@ -41,6 +41,26 @@ Shodan
 
 <img 
     align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="Bash" 
     title="Bash" 
     width="30px" 
@@ -166,11 +186,22 @@ Shodan
 
 <img 
     align="left" 
-    alt="Qubes OS" 
-    title="Qubes OS" 
+    alt="Gentoo" 
+    title="Gentoo" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qubes/qubes-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Debian" 
+    title="Debian" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" 
 />
 
 
