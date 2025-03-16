@@ -29,9 +29,76 @@
                                                                           
 ````
 
+                 
+---
 
-                               
-                                                                          
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Assembly" 
+    title="Assembly" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -50,32 +117,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleshodan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-
-
-
-
-## technologies ##
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<a href="https://www.linkedin.com/in/glauco-thales-b042a42b9/" target="_blank">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-
-
-
-
-
-
-
-## operation systems
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=https://example.com/path-to-blackarch-logo.png&logoColor=white)
-
-
 
