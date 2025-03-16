@@ -34,7 +34,6 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="Assembly" 
@@ -97,10 +96,6 @@
 
 ### 📊 Estatísticas
 
-
-
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -117,4 +112,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleshodan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
