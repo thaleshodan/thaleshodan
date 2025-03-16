@@ -32,11 +32,19 @@
                  
 ---
 
+
 ### 🤖 Linguagens e Tecnologias
 
+ 
 
-<a href="https://imgur.com/d7Uf4nO"><img src="https://i.imgur.com/d7Uf4nO.png" title="source: imgur.com" /></a>
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 
 
 <img 
@@ -89,6 +97,7 @@
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
@@ -97,6 +106,8 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+
 
   <img 
     align="left" 
