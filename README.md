@@ -41,7 +41,7 @@
     title="Assembly" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Assembly_language_icon.svg/1200px-Assembly_language_icon.svg.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" 
 />
 
 
