@@ -34,13 +34,14 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="Assembly" 
     title="Assembly" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" 
 />
 
 <img 
@@ -49,7 +50,7 @@
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
 
 <img 
@@ -58,7 +59,7 @@
     title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
 
 <img 
@@ -67,7 +68,7 @@
     title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
 />
 
 <img 
@@ -76,10 +77,8 @@
     title="Rust" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
 />
-
-
 
 <img 
     align="left" 
@@ -87,9 +86,8 @@
     title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-
 
 <br/>
 <br/>
