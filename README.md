@@ -35,14 +35,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 
-<img 
-    align="left" 
-    alt="Assembly" 
-    title="Assembly" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.imgur.com/K7CiKwq.png" 
-/>
+<a href="https://imgur.com/d7Uf4nO"><img src="https://i.imgur.com/d7Uf4nO.png" title="source: imgur.com" /></a>
 
 
 
