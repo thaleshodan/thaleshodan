@@ -35,17 +35,6 @@ Shodan
 
                  
 ---
-### 🤖 Linguagens e Tecnologias
-
-#### Desenvolvimento:
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-- ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)
 
 
 
