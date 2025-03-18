@@ -36,6 +36,96 @@ Shodan
                  
 ---
 
+###  Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+/>
+
+          
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 
 
