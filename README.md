@@ -1,11 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20live%20style%20&descSize=20&animation=twinkling">
 
-## "Hello World" cybersecurity enthusiasts, I'm glad you found my profile.
-I’m Shodan, a Brazilian cybersecurity student since I was 10 years old, and on this profile, I create tools to assist in pentesting for teams from white to black hats. There's no place like 127.0.0.1.
-Best regards,
+# "Hello World" Cybersecurity Enthusiasts
+
+I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. There's no place like `127.0.0.1`.
+
+Best regards,  
 Shodan  
-**Ass:** Shodan
 
 
 
@@ -29,187 +30,24 @@ Shodan
 
 
                                     ignotum         -
-                                                                          
+                                                                ### 🤖 Linguagens e Tecnologias
+
+#### Desenvolvimento:
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+- ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)
+          
 ````
 
                  
 ---
 
 
-### 🤖 Linguagens e Tecnologias
 
-
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
-/>
-
-          
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="C" 
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Rust" 
-    title="Rust" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; width: auto; max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="width: auto; max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleshodan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
----------------
-
-
-
-### Sistemas operacionais que eu uso ###
-
-<img 
-    align="left" 
-    alt="Arch Linux" 
-    title="Arch Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Fedora" 
-    title="Fedora" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Gentoo" 
-    title="Gentoo" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg" 
-/>
-
-
-
-<img 
-    align="left" 
-    alt="Debian" 
-    title="Debian" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" 
-/>
-
-
-/>
-
-# ![snake gif](https://github.com/thaleshodan/thaleshodan/blob/output/github-contribution-grid-snake.gif)
 
 
