@@ -30,7 +30,12 @@ Shodan
 
 
                                     ignotum         -
-                                                                ### 🤖 Linguagens e Tecnologias
+
+````
+
+                 
+---
+### 🤖 Linguagens e Tecnologias
 
 #### Desenvolvimento:
 - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
@@ -41,11 +46,6 @@ Shodan
 - ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
 - ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 - ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)
-          
-````
-
-                 
----
 
 
 
