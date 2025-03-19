@@ -1,7 +1,6 @@
 
 
 
-
 ![Snake animation](https://github.com/thaleshodan/thaleshodan/blob/output/github-contribution-grid-snake.svg?color_snake=white&color_dots=#1e1e1e,#2d2d2d,#3a3a3a,#000000)
 
 
@@ -170,27 +169,3 @@ Shodan
   />
 
 </p>
-
-
- 
-
-
-
-
-
-
-### 🖥️ Sistemas Operacionais que eu uso
-
-<img align="left" alt="Arch Linux" title="Arch Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/>
-
-<img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Fedora" title="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
-
-<img align="left" alt="Gentoo" title="Gentoo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg"/>
-
-<img align="left" alt="Debian" title="Debian" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
-
-<br/><br/>
-
-
