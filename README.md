@@ -1,4 +1,13 @@
 
+
+
+
+![Snake animation](https://github.com/thaleshodan/thaleshodan/blob/output/github-contribution-grid-snake.svg?color_snake=white&color_dots=#1e1e1e,#2d2d2d,#3a3a3a,#000000)
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20Shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
 
 # "Hello World" Cybersecurity Enthusiasts
