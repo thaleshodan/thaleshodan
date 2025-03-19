@@ -167,7 +167,6 @@ Shodan
 
 
 
-### Sistemas Operacionais que eu uso
 
 ### 🖥️ Sistemas Operacionais que eu uso
 
