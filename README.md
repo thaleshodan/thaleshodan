@@ -172,15 +172,15 @@ Shodan
 
 ### 🖥️ Sistemas Operacionais que eu uso
 
-<img align="left" alt="Arch Linux" title="Arch Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/>
+<img align="left" alt="Arch Linux" title="Arch Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/>
 
-<img align="left" alt="Linux" title="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-<img align="left" alt="Fedora" title="Fedora" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
+<img align="left" alt="Fedora" title="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
 
-<img align="left" alt="Gentoo" title="Gentoo" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg"/>
+<img align="left" alt="Gentoo" title="Gentoo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg"/>
 
-<img align="left" alt="Debian" title="Debian" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+<img align="left" alt="Debian" title="Debian" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
 
 <br/><br/>
 
