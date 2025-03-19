@@ -163,3 +163,14 @@ Shodan
 </p>
 
 
+ 
+
+
+
+### Sistemas Operacionais que eu uso
+
+- ![Arch Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg)
+- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+- ![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)
+- ![Gentoo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg)
+- ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg)
