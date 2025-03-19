@@ -169,8 +169,17 @@ Shodan
 
 ### Sistemas Operacionais que eu uso
 
-- ![Arch Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg)
-- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-- ![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)
-- ![Gentoo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg)
-- ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg)
+### 🖥️ Sistemas Operacionais que eu uso
+
+<img align="left" alt="Arch Linux" title="Arch Linux" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/>
+
+<img align="left" alt="Linux" title="Linux" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<img align="left" alt="Fedora" title="Fedora" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
+
+<img align="left" alt="Gentoo" title="Gentoo" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg"/>
+
+<img align="left" alt="Debian" title="Debian" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+
+<br/><br/>
+
