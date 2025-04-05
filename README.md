@@ -3,10 +3,6 @@
 
 ![Snake animation](https://github.com/thaleshodan/thaleshodan/blob/output/github-contribution-grid-snake.svg?color_snake=white&color_dots=#1e1e1e,#2d2d2d,#3a3a3a,#000000)
 
-
-
-
-
 # "Hello World" Cybersecurity Enthusiasts
 I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script,assembly etc, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like `127.0.0.1`.
 
