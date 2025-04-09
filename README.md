@@ -37,42 +37,6 @@ Shodan
                  
 ---
 
-###  Linguagens e Tecnologias que eu uso 
+###  Linguagens e Tecnologias que eu uso
 
-<div>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Assembly-%23DD0031.svg?style=for-the-badge&logo=codeforces&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"> 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"> 
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-</div>
-
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleshodan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleshodan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,asm,react,typescript,python,go,rust,js)](https://skillicons.dev)
