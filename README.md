@@ -53,12 +53,3 @@ Shodan
   <br/>
 <br/>
 
-
-
-
-##  Algumas estatisticas do Github
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaleshodan&show_icons=true&theme=tokyonight&line_height=27&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleshodan&hide=css,java,html&theme=tokyonight" />
-</p>
