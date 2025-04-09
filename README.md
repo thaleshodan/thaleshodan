@@ -40,3 +40,12 @@ Shodan
 ###  Linguagens e Tecnologias que eu uso
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,react,typescript,python,go,rust,js)](https://skillicons.dev)
+
+
+
+**Ferramentas de Desenvolvimento**
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,clion,go,nano)](https://skillicons.dev)
+
+  <br/>
+<br/>
