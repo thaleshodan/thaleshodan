@@ -46,7 +46,8 @@ Shodan
 
 ## Ferramentas de Desenvolvimento
 
-[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,go)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,go,jupyter,idea)](https://skillicons.dev)
+![Nano](https://img.shields.io/badge/Editor-Nano-4EAA25?style=for-the-badge&logo=gnu&logoColor=white)
 
 
   <br/>
