@@ -37,9 +37,10 @@ Shodan
                  
 ---
 
-###  Linguagens e Tecnologias que eu uso
+###  Cybersecurity and back-end developing
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,react,typescript,python,go,rust,js)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,asm,react,typescript,python,go,rust,mysql,nodejs,java)](https://skillicons.dev)
 
 
 
