@@ -45,7 +45,8 @@ Shodan
 
 **Ferramentas de Desenvolvimento**
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,clion,go,nano)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,go)](https://skillicons.dev)
+
 
   <br/>
 <br/>
