@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20Shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
 
 
- <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
+   <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
 
 
 
