@@ -15,7 +15,6 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 
 
-
 ````console
   ┌──(blackarch㉿Root)-[~]
   └─$ cat profile.txt 
