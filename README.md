@@ -10,6 +10,8 @@
 
 ****I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script,assembly etc, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like**** ```127.0.0.1```
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph.svg">
