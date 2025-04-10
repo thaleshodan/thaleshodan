@@ -4,7 +4,7 @@
 
   <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
 
-
+--------------------------------------------------------------------------------------------------------
 
 # "Hello World" Cybersecurity Enthusiasts
 
