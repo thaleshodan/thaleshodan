@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20Shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
 
+
+ <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
+
+
+
+
+
 # "Hello World" Cybersecurity Enthusiasts
 I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script,assembly etc, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like `127.0.0.1`.  
 
@@ -61,9 +68,7 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 
 
-  <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
-
-
+ 
 
 
 
