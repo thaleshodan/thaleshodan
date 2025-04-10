@@ -50,7 +50,8 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 ###  Cybersecurity and back-end developing
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,react,typescript,python,go,rust,mysql,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,react,typescript,python,go,rust,mysql,nodejs,java,bash)](https://skillicons.dev)
+
 
 
 
