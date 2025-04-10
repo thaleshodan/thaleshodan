@@ -61,7 +61,8 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 
 
-  <img src="https://media.gifdb.com/gastly-haunter-gengar-laughing-ukcigo9keoa16id2.gif" width="250" alt="Gengar Laughing" />
+  <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="250" alt="Gengar Rindo" />
+
 
 
 
