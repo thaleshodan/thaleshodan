@@ -60,11 +60,9 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
  
 
 
-
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maykbrito/maykbrito/main/assets/gengar.gif" width="150"/>
+  <img src="https://media.gifdb.com/gastly-haunter-gengar-laughing-ukcigo9keoa16id2.gif" width="250" alt="Gengar Laughing" />
 </p>
+
 
 
