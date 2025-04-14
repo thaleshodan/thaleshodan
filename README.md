@@ -4,7 +4,7 @@
 
  <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="150" alt="Gengar Rindo" />
-  <img src="arceus-fighting-pokemon (copiar 1).gif" width="150" alt="Arceus" />
+  <img src="arceus-fighting-pokemon.gif" width="150" alt="Arceus" />
 </div>
 
 
