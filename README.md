@@ -13,29 +13,9 @@
 ****I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script and assembly, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like**** ```127.0.0.1```
 
 
-
-<p align="center">
-  <svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .ascii-text {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 14px;
-        font-weight: bold;
-        fill: #00FFFF; /* Cor Ciano */
-        white-space: pre;
-      }
-    </style>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="ascii-text">
-  ____  _____ _   _ ___ _____ ____  
- |  _ \| ____| \ | |_ _| ____|  _ \ 
- | | | |  _| |  \| || ||  _| | | | |
- | |_| | |___| |\  || || |___| |_| |
- |____/|_____|_| \_|___|_____|____/ 
-    </text>
-  </svg>
-</p>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=ACCESS+DENIED;D+E+N+I+E+D" alt="Typing SVG" />
+</div>
 
 --------------------------------------------------------------------------------------------------------------------------
 
