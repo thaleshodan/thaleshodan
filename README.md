@@ -6,7 +6,7 @@
 <h1 align="center">"Hello World" Cybersecurity Enthusiasts</h1>
 
 <p align="center">
-  <b>I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old.</b> On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with Python, C, Bash script, and Assembly. If you want, follow me on my channel <b>@blackhost</b> to stay updated on new technologies. 
+  <b>I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old.</b> On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with Python, C, Bash script, and Assembly. If you want, follow me on my channel <b>@blackhost</b> to be more able to new technologies.
   <br><br>
   <i>There's no place like</i> <code>127.0.0.1</code>
 </p>
@@ -30,7 +30,7 @@
 
   <br>
 
-  <!-- Animação da Chuva do Matrix (SVG com Katakana corrigido) -->
+  <!-- Animação da Chuva do Matrix (SVG com Katakana) -->
   <svg width="100%" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" style="background-color: #000000; border-radius: 10px; border: 1px solid #00FFFF;">
     
     <!-- Coluna 1 -->
@@ -75,11 +75,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ACCESS+DENIED;D+E+N+I+E+D" alt="Typing SVG" />
 </div>
 
+<br>
+
 ---
 
 <br>
 
-<!-- Terminal Linux -->
+<!-- Terminal Linux Corrigido e Formatado -->
 ```console
 ┌──(blackarch㉿Root)-[~]
 └─$ cat profile.txt 
@@ -97,5 +99,5 @@
 ┌──(kali㉿kali)-[~]
 └─$ cat mantra.txt 
   "quod cito acquiritur cito perit."
-                                       
+
                                     ignotum -
