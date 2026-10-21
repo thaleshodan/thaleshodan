@@ -29,53 +29,6 @@
 
   <br>
 
-  <!-- Animação da Chuva do Matrix (SVG com Katakana) -->
-  <svg width="100%" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" style="background-color: #000000; border-radius: 10px; border: 1px solid #00FFFF;">
-    
-    <!-- Coluna 1 -->
-    <text x="50" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.8">
-      ﾊ ﾐ ｸ ｹ ﾑ ﾒ ﾓ ﾔ ﾕ ﾗ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="2s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Coluna 2 -->
-    <text x="150" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.6">
-      ﾘ ﾜ ｦ ﾝ ｱ ｲ ｳ ｴ ｵ ｶ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="2.5s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Coluna 3 -->
-    <text x="250" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.9">
-      ﾊ ﾐ ｸ ｹ ﾑ ﾒ ﾓ ﾔ ﾕ ﾗ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="1.8s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Coluna 4 -->
-    <text x="350" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.7">
-      ﾘ ﾜ ｦ ﾝ ｱ ｲ ｳ ｴ ｵ ｶ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="3s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Coluna 5 -->
-    <text x="450" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.8">
-      ﾊ ﾐ ｸ ｹ ﾑ ﾒ ﾓ ﾔ ﾕ ﾗ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="2.2s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Coluna 6 -->
-    <text x="550" y="0" fill="#00FFFF" font-family="monospace" font-size="16" opacity="0.5">
-      ﾘ ﾜ ｦ ﾝ ｱ ｲ ｳ ｴ ｵ ｶ
-      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="1.5s" repeatCount="indefinite" />
-    </text>
-  </svg>
-
-  <br><br>
-
-  <!-- Efeito de Digitação Final -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ACCESS+DENIED;D+E+N+I+E+D" alt="Typing SVG" />
-  
-  <br>
-</div>
 --------------------------------------------------------------------------------------------------------------------------
 
 
