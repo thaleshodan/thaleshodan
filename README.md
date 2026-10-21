@@ -3,9 +3,6 @@
 
 
  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" width="150" alt="Gengar Rindo" />
-  <img src="arceus-fighting-pokemon.gif" width="150" alt="Arceus" />
-</div>
 
 
 
@@ -13,7 +10,7 @@
 
 # "Hello World" Cybersecurity Enthusiasts
 
-****I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script,assembly etc, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like**** ```127.0.0.1```
+****I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script and assembly, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like**** ```127.0.0.1```
 
 
 
@@ -30,7 +27,7 @@
 ````console
   ┌──(blackarch㉿Root)-[~]
   └─$ cat profile.txt 
-  Name: Thales Shodan              Age: 16
+  Name: Thales Shodan              Age: 18
   Country: Brazil                 occupation: Cybersecurity
   Goal:
     -Get  Freedom
@@ -63,7 +60,7 @@
 
 ## Ferramentas de Desenvolvimento
 
-[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,go,eclipse,idea)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,bash)](https://skillicons.dev)
 
 
 
