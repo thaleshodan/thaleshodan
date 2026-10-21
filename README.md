@@ -14,13 +14,26 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thaleshodan/thaleshodan/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<p align="center">
+  <svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .ascii-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14px;
+        font-weight: bold;
+        fill: #00FFFF; /* Cor Ciano */
+        white-space: pre;
+      }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="ascii-text">
+  ____  _____ _   _ ___ _____ ____  
+ |  _ \| ____| \ | |_ _| ____|  _ \ 
+ | | | |  _| |  \| || ||  _| | | | |
+ | |_| | |___| |\  || || |___| |_| |
+ |____/|_____|_| \_|___|_____|____/ 
+    </text>
+  </svg>
+</p>
 --------------------------------------------------------------------------------------------------------------------------
 
 
