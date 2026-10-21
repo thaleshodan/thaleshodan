@@ -1,26 +1,25 @@
+<!-- Header Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thales%20Shodan&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
 
+<br>
 
+<h1 align="center">"Hello World" Cybersecurity Enthusiasts</h1>
 
- <div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="center">
+  <b>I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old.</b> On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with Python, C, Bash script, and Assembly. If you want, follow me on my channel <b>@blackhost</b> to stay updated on new technologies. 
+  <br><br>
+  <i>There's no place like</i> <code>127.0.0.1</code>
+</p>
 
+<br>
 
-
---------------------------------------------------------------------------------------------------------
-
-# "Hello World" Cybersecurity Enthusiasts
-
-****I'm Thales Shodan, a Brazilian cybersecurity student since I was 10 years old. On this profile, I create tools to assist in pentesting for teams, from white to black hats. I work with python,c,bash script and assembly, If you want,folllow me in my channel @blackhost to be more able to new technologies. There's no place like**** ```127.0.0.1```
+<!-- Seção Matrix / Ceifador -->
 <div align="center">
-
-
-  <div align="center">
-  <!-- Borda superior estilo Matrix -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%5B+W+A+R+N+I+N+G+%5D;S+Y+S+T+E+M+_+F+A+I+L+U+R+E" alt="Matrix Alert" />
 
   <br><br>
 
-  <!-- O Ceifador (Sua Imagem) -->
+  <!-- O Ceifador -->
   <table>
     <tr>
       <td align="center" style="border: 2px solid #00FFFF; border-radius: 10px; padding: 10px; background-color: #000000;">
@@ -31,7 +30,7 @@
 
   <br>
 
-  <!-- Animação da Chuva do Matrix (SVG com Katakana) -->
+  <!-- Animação da Chuva do Matrix (SVG com Katakana corrigido) -->
   <svg width="100%" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" style="background-color: #000000; border-radius: 10px; border: 1px solid #00FFFF;">
     
     <!-- Coluna 1 -->
@@ -73,65 +72,30 @@
 
   <br><br>
 
-  <!-- Efeito de Digitação Final -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ACCESS+DENIED;D+E+N+I+E+D" alt="Typing SVG" />
-  
-  <br>
 </div>
 
---------------------------------------------------------------------------------------------------------------------------
-
-
-````console
-  ┌──(blackarch㉿Root)-[~]
-  └─$ cat profile.txt 
-  Name: Thales Shodan              Age: 18
-  Country: Brazil                 occupation: Cybersecurity
-  Goal:
-    -Get  Freedom
-                                                                          
-  ┌──(kali㉿kali)-[~]
-  └─$ cat note.txt   
-  1 - Passionate about development and cybersecurity
-  2 - working with terminals since I was 10
-  3 - freedom is a gift
-                                                                          
-  ┌──(kali㉿kali)-[~]
-  └─$ cat mantra.txt 
-  "quod cito acquiritur cito perit ."
-
-
-                                    ignotum         -
-
-````
-
-                 
 ---
 
-###  Cybersecurity and back-end developing
+<br>
 
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,react,typescript,python,go,rust,mysql,nodejs,java,bash)](https://skillicons.dev)
-
-
-
-
-## Ferramentas de Desenvolvimento
-
-[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,bash)](https://skillicons.dev)
-
-
-
-  <br/>
-<br/>
-
- 
-****_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)****
-
-
- 
-
- 
-
-
-
+<!-- Terminal Linux -->
+```console
+┌──(blackarch㉿Root)-[~]
+└─$ cat profile.txt 
+  Name: Thales Shodan              Age: 18
+  Country: Brazil                 Occupation: Cybersecurity
+  Goal:
+    - Get Freedom
+                                          
+┌──(kali㉿kali)-[~]
+└─$ cat note.txt   
+  1 - Passionate about development and cybersecurity
+  2 - Working with terminals since I was 10
+  3 - Freedom is a gift
+                                          
+┌──(kali㉿kali)-[~]
+└─$ cat mantra.txt 
+  "quod cito acquiritur cito perit."
+                                       
+                                    ignotum -
